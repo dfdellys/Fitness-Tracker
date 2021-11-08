@@ -21,3 +21,5 @@ This application is under an MIT license.
 ## Links
 
 To view the deployed application, click on the following link:
+
+https://thawing-spire-57854.herokuapp.com/
