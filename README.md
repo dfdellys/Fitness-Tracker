@@ -2,7 +2,8 @@
 
 This application helps you keep track of your workouts. This application uses Node.js, MongoDB, HTML, CSS, JavaScript and others.
 
-![Screenshot (21)](https://user-images.githubusercontent.com/73720274/140682278-05e5598b-23f0-404a-8743-0076d2bab45a.png)
+![fitness](https://user-images.githubusercontent.com/73720274/141910139-6f32e11e-3b7c-4eb2-91c2-bac3e389e9b2.png)
+
 
 ## User Story
 
